@@ -1,17 +1,17 @@
 {
   "name": "Brightline Blog",
   "version": "1.0.0",
-  "description": "A Boilerplate Theme for Ghost forked from Bastard",
+  "description": "All Things Brightline.",
   "author": {
-    "name": "Gil",
-    "email": "gfgilly@gmail.com",
-    "url": "http://gferreira.me"
+    "name": "Brightline",
+    "email": "hello@brightline.io",
+    "url": "http://www.brightline.io"
   },
-  "homepage": "https://github.com/misterGF/SwaggyBastard",
+  "homepage": "http://blog.brightline.io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mistergf/Swaggy-Bastard.git"
+    "url": "https://github.com/BrightlineLaw/brightline-blog"
   },
   "devDependencies": {
     "grunt": "~0.4.4",
